@@ -1,0 +1,15 @@
+{
+  "name": "JDmitrijs7 App",
+  "short_name": "JD7",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2196F3",
+  "theme_color": "#9C27B0",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
